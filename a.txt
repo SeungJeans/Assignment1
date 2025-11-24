@@ -1,3 +1,4 @@
 A
 B git commit -am B
 B
+C
